@@ -10,5 +10,6 @@
 <h3>Principais linguagens.</h3>
 
 [![AugustoTG Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTG&layout=compact)](https://github.com/AugustoTG/github-readme-stats)
-<p><a href="https://www.linkedin.com/in/augusto-tavares-451977134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
+ <p><a href="https://www.linkedin.com/in/augusto-tavares-451977134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
